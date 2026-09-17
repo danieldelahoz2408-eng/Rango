@@ -1,6 +1,6 @@
 # Rango Creative Studio — Estrategia de marketing
 
-**Versión:** 1.0 · Septiembre 2026 · Documento de trabajo para los dos socios
+**Versión:** 1.2 · Septiembre 2026 · Documento de trabajo para los dos socios
 **Se lee con:** `02-plan-de-accion.md` (plan concreto de los primeros 6 meses, ajustado a dedicación parcial)
 
 > **Nota de ajuste.** Esta estrategia describe el camino a 36 meses. La Fase 1 (meses 1–6) se ejecuta con los dos socios a tiempo parcial; sus metas recalibradas están en el plan de acción, sección 0. El resto de la proyección aplica desde que un socio pase a tiempo completo.
@@ -23,18 +23,18 @@ La ambición ("no ser agencia de volumen, construir portafolio, llegar a grandes
 
 | Nivel | Oferta | Ticket referencia (COP) | Rol |
 |---|---|---|---|
-| Entrada | Pack de anuncios para pauta (4–6 piezas) / Landing + identidad express | 3–8 M | Puerta de entrada, alto margen, rápido |
-| Core | Clip musical, comercial, branding completo, sitio corporativo | 8–40 M | Construye portafolio |
-| Premium | Campaña 360 (concepto + producción + piezas digitales + web) | 40–150 M+ | Meta de fase 2–3 |
-| Recurrente | "Rango Lab": contenido mensual + dirección creativa | 5–15 M/mes | Estabiliza caja (meta: 35–40 % de ingresos en año 2) |
+| Entrada | Pack de 5 anuncios para pauta / Landing + identidad express | 2,5–4 M | Puerta de entrada, alto margen, rápido |
+| Core | Video de marca, clip musical, comercial, branding completo, sitio corporativo | 4–12 M (fase 1) · 10–25 M (fase 2) | Construye portafolio |
+| Premium | Campaña 360 (concepto + producción + piezas digitales + web) | 25–80 M+ | Meta de fase 2–3 |
+| Recurrente | "Rango Lab": contenido mensual + dirección creativa | 3–8 M/mes | Estabiliza caja (meta: 35–40 % de ingresos en año 2) |
 | Cíclico | Campañas políticas (concejo, alcaldía, gobernación) | 15–200 M+ | Enero–octubre 2027 |
 
-*Rangos de precio para Bogotá 2026 como referencia de mercado: validarlos con 5–10 cotizaciones reales antes de fijar tarifario.*
+*Precios recalibrados en la v1.2 con fuentes de mercado 2025–2026 (ver `04-captacion-rentabilidad-lanzamiento.md`, Parte 2). Se confirman con las cotizaciones reales del estudio.*
 
 ### Pisos de precio por fase (no negociables)
-- Fase 1 (meses 1–6): ningún proyecto por debajo de COP 3 M, salvo proyectos imán propios.
-- Fase 2 (7–18): piso 6 M; el pack de entrada sube a 5 M.
-- Fase 3 (19–36): piso 12 M; producciones desde 25 M.
+- Fase 1 (meses 1–6): ningún proyecto por debajo de COP 2 M, salvo proyectos imán propios.
+- Fase 2 (7–18): piso 4 M; el pack de entrada sube a 4 M.
+- Fase 3 (19–36): piso 8 M; producciones desde 15 M.
 
 Cada vez que se rompa el piso "por portafolio", cuenta contra el presupuesto de proyectos imán (máximo 15 % del tiempo del equipo).
 
@@ -52,21 +52,21 @@ Cada vez que se rompa el piso "por portafolio", cuenta contra el presupuesto de 
 
 | Fase | Meses | Objetivo | Equipo | Ingreso mensual objetivo (base) |
 |---|---|---|---|---|
-| 1. Portafolio | 1–6 | 8–12 piezas de portafolio, 3 casos con resultados, tarifario validado | 2 fundadores (tiempo parcial) + freelancers | 4 → 15 M |
-| 2. Tracción | 7–18 | Primeros retainers, primer cliente > 30 M, ciclo político 2027 | 1 socio full-time, luego 2, +3–5 personas | 50 → 120 M |
-| 3. Escala | 19–36 | Marca grande directa, equipo 8–12, 35 % ingresos recurrentes | 8–12 personas | 125 → 210 M |
+| 1. Portafolio | 1–6 | 8–12 piezas de portafolio, 3 casos con resultados, tarifario validado | 2 fundadores (tiempo parcial) + freelancers | 7 → 15 M |
+| 2. Tracción | 7–18 | Primeros retainers, primer cliente > 15 M, ciclo político 2027 | 1 socio full-time, luego 2, +2–4 personas | 25 → 60 M (más el pico político de 2027) |
+| 3. Escala | 19–36 | Marca grande directa, equipo 6–10, 35 % ingresos recurrentes | 6–10 personas | 65 → 140 M |
 
 ### Escenarios (COP millones; año 1 = primeros 12 meses de operación)
 
 | | Año 1 | Año 2 | Año 3 | EBITDA A1 / A2 / A3 | Punto de equilibrio | Capital requerido |
 |---|---|---|---|---|---|---|
-| **Conservador** (ticket no sube, se contrata por calendario) | 240 | 780 | 1.170 | −100 / −55 / −85 | Nunca estable | ~400 M — inviable |
-| **Base** | 410 | 1.440 | 2.030 | −30 / +230 / +250 | Mes 6 | ~55–80 M + colchón personal 6 meses |
-| **Agresivo** (cliente grande en año 1, ciclo político fuerte) | 675 | 2.430 | 3.660 | +90 / +690 / +1.040 | Mes 3 | ~10 M |
+| **Conservador** (ticket no sube, se contrata por calendario) | 240 (143 comercial + 96 político) | 440 | 720 | −25 / −150 / −200 | Nunca estable | ~500 M — inviable |
+| **Base** | 440 (200 comercial + 240 político) | 770 | 1.355 | +75 / 0 / +77 | Mes 2–3 | Caja propia (≈ 8–13 M de arranque) + colchón personal 6 meses |
+| **Agresivo** (cliente grande en año 1, ciclo político fuerte) | 730 (345 comercial + 385 político) | 1.315 | 2.460 | +200 / +200 / +525 | Mes 2 | Caja propia |
 
-Supuestos del caso base: 2→5 proyectos/mes; ticket promedio 5 M → 12 M → 25 M; costo directo (freelancers, equipos, locaciones, talento) 45 % → 38 % → 30 % al internalizar producción; nómina con carga prestacional ×1,5; marketing 7–8 % de ingresos; ingresos políticos ≈ 20–25 % de los años 1–2 concentrados en la campaña de 2027 y cero en 2028 (año sin elecciones).
+Supuestos del caso base (v1.2, precios de mercado): 2→5,5 proyectos/mes; ticket promedio 3,5 M → 10 M → 20 M; costo directo (freelancers, equipos, locaciones, talento) 47 % → 42 % → 36 % al internalizar producción; equipo contratado solo cuando el ticket lo permite (2→6 M/mes de nómina base en fase 2, 8→18 M en fase 3); nómina con carga prestacional ×1,5; marketing 7–8 % de ingresos; ingresos políticos concentrados entre enero y octubre de 2027 (más de la mitad del año 1 si se arranca en octubre de 2026) y cero en 2028 (año sin elecciones). El año 2 es plano porque pierde el pico político; el crecimiento comercial real se ve entre año 1 y año 3.
 
-**Lectura clave:** la diferencia entre conservador y base no es cuántos proyectos se venden, sino a qué precio y cuándo se contrata. El escenario conservador es una agencia de volumen: mucha operación, cero utilidad.
+**Lectura clave:** la diferencia entre conservador y base no es cuántos proyectos se venden, sino a qué precio y cuándo se contrata. El escenario conservador es una agencia de volumen: mucha operación, cero utilidad. Con precios de mercado los márgenes del caso base son estrechos (0–17 % de EBITDA): el estudio vive de la disciplina de contratación y de subir el ticket, no del volumen.
 
 > **Ajuste v1.1:** la tabla de rentabilidad por proyecto, las tarifas freelance y los sueldos de fundadores están en `04-captacion-rentabilidad-lanzamiento.md`, Parte 2.
 

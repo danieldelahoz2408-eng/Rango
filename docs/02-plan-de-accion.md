@@ -1,6 +1,6 @@
 # Rango Creative Studio — Plan de acción (primeros 6 meses)
 
-**Versión:** 1.0 · Septiembre 2026 · Documento de trabajo para los dos socios
+**Versión:** 1.2 · Septiembre 2026 · Documento de trabajo para los dos socios
 **Complementa a:** `01-estrategia-marketing.md` (estrategia general, proyección económica, captación y comunicación)
 **Ajuste v1.1:** `04-captacion-rentabilidad-lanzamiento.md` detalla los medios de captación, la rentabilidad y las tareas T1–T12 de lanzamiento; **la pauta arranca en la semana 9 junto con el orgánico** (no en la 13) para llegar al primer cliente frío en la semana 12–14.
 
@@ -22,11 +22,11 @@ Con dedicación parcial, la Fase 1 de la estrategia (meses 1–6) se recalibra:
 | Indicador | Estrategia original (fase 1) | Ajustado a tiempo parcial |
 |---|---|---|
 | Proyectos pagos por mes | 2 → 3 | 1 → 2 |
-| Ingreso mensual objetivo (COP) | 8 → 23 M | 4 → 15 M |
+| Ingreso mensual objetivo (COP) | 8 → 23 M | 4 → 15 M (3 proyectos/mes sostenidos desde el mes 4) |
 | Proyectos imán | 4 en 6 meses | 2 en 6 meses |
-| Meta de salida de fase | Tarifario validado, 3 casos con resultados | Lo mismo + **3 meses seguidos ≥ COP 12 M/mes**, que es el disparador para que un socio pase a tiempo completo |
+| Meta de salida de fase | Tarifario validado, 3 casos con resultados | Lo mismo + **3 meses seguidos ≥ COP 12 M/mes** (ya es rentable con honorarios). El salto a tiempo completo tiene su propio umbral, más alto (abajo) |
 
-**Regla del salto a tiempo completo:** un socio deja su empleo cuando el promedio de ingresos de los últimos 3 meses cubre ≥ 2,5× (su sueldo actual neto + costos fijos del estudio) **y** hay caja para 3 meses de ese sueldo. Hasta entonces, freelancers absorben la carga.
+**Regla del salto a tiempo completo (v1.2, con precios de mercado):** un socio deja su empleo cuando el estudio lleva **3 meses seguidos con ingresos ≥ COP 30 M/mes y al menos 2 comerciales (o equivalentes de 7–10 M) por mes**, y hay caja para 3 meses de su sueldo. Con la rentabilidad real (documento 04, sección 2.4), 5 proyectos/mes de 25 M apenas cubren un sueldo de 4 M; por debajo de 30 M el salto se financia con deuda personal. Hasta entonces, freelancers absorben la carga.
 
 ---
 
@@ -80,13 +80,13 @@ Esto no bloquea el negocio comercial ni el arranque. Sí condiciona **cómo** se
 | Constitución SAS (Cámara de Comercio de Bogotá) + RUT + facturación electrónica | 0,8–1,2 M | Puede posponerse hasta el primer cliente que exija factura; cobrar como persona natural con cuenta de cobro mientras tanto |
 | Contador/a externo | 0,3–0,5 M/mes desde la SAS | |
 | Dominio + hosting/plataforma (Framer, Webflow o WordPress) | 0,4–0,9 M/año | |
-| Re-presentación del portafolio (editor/a + diseñador/a freelance) | 1,5–2,5 M | Inversión prioritaria |
-| Identidad visual (si no la hacen ustedes) | 0–2,5 M | Recomendado hacerla internamente: es su primer caso de branding |
-| Pauta (meses 3–6) | 0,6–1 M/mes | Solo para amplificar lo que ya funcionó orgánicamente y para retargeting |
+| Re-presentación del portafolio (editor/a + diseñador/a freelance) | 0,8–1,5 M | Inversión prioritaria |
+| Identidad visual (si no la hacen ustedes) | 0–1,8 M | Recomendado hacerla internamente: es su primer caso de branding |
+| Pauta (desde la semana 9) | 1–1,5 M/mes | Meta + Google; detalle en el documento 04 |
 | Proyecto imán #1 y #2 (Sesión Rango, rebrand no solicitado) | 1,5–3 M | Coproducción: el artista pone talento y difusión |
 | Equipos | 0 | Alquilar por rodaje; comprar solo lo que se usa en 3+ proyectos pagos (primero audio y luz, no cámara) |
 | Colchón para imprevistos | 1,5 M | |
-| **Total 6 meses** | **≈ 8–13 M** | Aporte de cada socio: 4–6,5 M, o escalonado mes a mes |
+| **Total 6 meses** | **≈ 8–12 M** | Aporte de cada socio: 4–6 M, o escalonado mes a mes |
 
 Los freelancers de proyectos pagos **no** están aquí: se pagan con el 50 % de anticipo del cliente.
 
@@ -95,14 +95,17 @@ Los freelancers de proyectos pagos **no** están aquí: se pagan con el 50 % de 
 ## 4. Freelancers: roster antes del primer proyecto
 
 ### Roles a cubrir
-| Rol | Cuándo se usa | Tarifa referencia Bogotá (COP) | Dónde buscar |
+| Rol | Cuándo se usa | Tarifa por proyecto o jornada (COP, v1.2) | Dónde buscar |
 |---|---|---|---|
-| Director/a de fotografía con equipo propio | Rodajes | 600 k–1,5 M/día | Instagram (#DOPBogotá), referidos de artistas, egresados Unitec/Javeriana/Nacional |
-| Editor/a de video + color | Todo proyecto audiovisual | 80–200 k/hora o 0,8–2,5 M/proyecto | Behance, Instagram, comunidades de editores |
-| Motion graphics | Anuncios de pauta, intros | 0,5–1,5 M/pieza | Behance |
-| Diseñador/a gráfico/a de marca | Branding, piezas | 60–150 k/hora | Behance, Domestika, facultades de diseño |
-| Desarrollador/a web (Framer/Webflow/WordPress) | Sitios | 1–4 M/sitio | Workana, LinkedIn, comunidades no-code |
-| Sonidista / productor/a musical | Rodajes con audio directo, mezcla | 300–800 k/día | Estudios de grabación aliados |
+| Director/a de fotografía / videógrafo/a con equipo propio | Rodajes | 500–900 k por jornada; media jornada 300–500 k | Instagram (#DOPBogotá), referidos de artistas, egresados Unitec/Javeriana/Nacional |
+| Editor/a de video + color | Todo proyecto audiovisual | Reel 80–250 k · pack de 5 anuncios 400–700 k · clip o video de marca 500 k–1 M · comercial 700 k–1,2 M · color 200–500 k/pieza | Behance, Instagram, comunidades de editores |
+| Motion graphics | Anuncios de pauta, intros, logo animado | Logo animado 200–500 k · pieza 20–30 s 300–800 k | Behance |
+| Diseñador/a gráfico/a de marca | Branding, piezas | Identidad con manual 1,2–2,5 M · piezas de redes 30–80 k c/u | Behance, Domestika, facultades de diseño |
+| Desarrollador/a web no-code (Framer/Webflow/WordPress) | Sitios | Landing 600 k–1,2 M · sitio 5–7 páginas 1,5–3 M | Workana, LinkedIn, comunidades no-code |
+| Sonidista con equipo | Rodajes con audio directo | 250–400 k por jornada | Estudios de grabación aliados |
+| Fotógrafo/a | Sesión de socios, fotos de casos, sitios | 350–600 k por sesión de 2–3 h | Instagram, referidos |
+
+Fuentes y detalle en `04-captacion-rentabilidad-lanzamiento.md`, sección 2.1. Los freelancers en Bogotá cotizan por proyecto o por jornada, no por hora.
 
 ### Proceso (una sola vez, semana 3–5)
 1. Lista de 3 candidatos por rol (18 nombres).
@@ -225,7 +228,7 @@ Con 10 h/semana no se hacen 20 pitches al mes. Se hacen **8 buenos** (2 por sema
 ---
 
 ## 7. Qué NO hacer en estos 6 meses
-- No aceptar proyectos por debajo de COP 3 M "por portafolio" (los proyectos imán ya cumplen ese papel, y son solo 2).
+- No aceptar proyectos por debajo de COP 2 M "por portafolio" (los proyectos imán ya cumplen ese papel, y son solo 2).
 - No comprar cámara.
 - No abrir más redes de las cuatro definidas.
 - No contratar a nadie fijo.
@@ -246,9 +249,9 @@ Con 10 h/semana no se hacen 20 pitches al mes. Se hacen **8 buenos** (2 por sema
 | Tasa de respuesta a pitches | ≥ 20 % | ≥ 25 % |
 | Diagnósticos realizados | 6 | 16 |
 | Propuestas enviadas | 4 | 12 |
-| Proyectos cerrados (acumulado) | 2–3 | 7–9 |
-| Ticket promedio (COP) | 4 M | 7 M |
-| Ingresos del mes | 5–8 M | 12–18 M |
+| Proyectos cerrados (acumulado) | 2–3 | 9–12 |
+| Ticket promedio (COP) | 3,5 M | 5 M |
+| Ingresos del mes | 6–9 M | 12–16 M |
 | Retainers activos | 0 | 1–2 |
 | Alianzas activas | 1 | 3 |
 | Horas reales trabajadas por socio/semana | 10 | 10 (si supera 15 sostenido, es señal de salto o de freelance) |
@@ -263,7 +266,7 @@ Convención: **A** = Socio A (tú), **B** = Socio B, **F** = freelance. Horas es
 
 **Semana 1 — Alinear y inventariar**
 
-1. (A+B, 2 h) Sesión fundacional: confirmar punta de lanza (audiovisual), roles de la sección 1, pisos de precio (COP 3 M), aporte de capital y cómo se resuelven desacuerdos. Dejarlo escrito en Notion.
+1. (A+B, 2 h) Sesión fundacional: confirmar punta de lanza (audiovisual), roles de la sección 1, pisos de precio (COP 2 M), aporte de capital y cómo se resuelven desacuerdos. Dejarlo escrito en Notion.
 2. (A, 3 h) Inventario del portafolio en la base de datos de la sección 6.1. Todas las piezas, aunque sean malas.
 3. (B, 2 h) Crear espacio en Notion: tablero de tareas, base de portafolio, CRM (lista → contactado → reunión → propuesta → cierre), roster de freelancers.
 4. (A+B, 1 h) Curaduría: elegir las 8–10 piezas que van al portafolio y marcar cuáles necesitan re-edición.
@@ -347,9 +350,9 @@ Convención: **A** = Socio A (tú), **B** = Socio B, **F** = freelance. Horas es
 
 **Semanas 17–20**
 
-48. (A+B) Mantener cadencia de contenido y 2 pitches/semana; subir el piso de precio a COP 4 M si ya hay 3 proyectos cerrados.
+48. (A+B) Mantener cadencia de contenido y 2 pitches/semana; subir el piso de precio a COP 3 M si ya hay 3 proyectos cerrados.
 49. (A, 3 h) Convertir el primer proyecto pago con resultados en caso público (ficha + video de 60 s de "cómo lo hicimos").
-50. (B, 3 h) Diseñar y ofrecer el primer retainer "Rango Lab" (contenido mensual + dirección creativa, COP 5–8 M/mes) a los 2 clientes más satisfechos.
+50. (B, 3 h) Diseñar y ofrecer el primer retainer "Rango Lab" (contenido mensual + dirección creativa, COP 3–4 M/mes) a los 2 clientes más satisfechos.
 51. (A, 4 h + F) Proyecto imán #2: "rebrand no solicitado" de un ícono bogotano, publicado como caso y enviado a prensa (Bacánika, Cartel Urbano, Revista P&M).
 52. (B, 2 h) Mapa de consultores políticos y encuestadores de Bogotá (sin contacto comercial).
 
@@ -363,7 +366,7 @@ Convención: **A** = Socio A (tú), **B** = Socio B, **F** = freelance. Horas es
 **Semanas 25–26 — Decisión**
 
 57. (A+B, sábado, 3 h) Revisión de semestre con el tablero completo y el estado de resultados real de 6 meses.
-58. (A+B) Aplicar la regla del salto: si hay 3 meses seguidos ≥ COP 12 M y caja para 3 meses, definir cuál socio pasa a tiempo completo y cuándo. Si no, definir qué cambia en los próximos 3 meses (precio, formato de pitch, canal) y repetir el ciclo.
+58. (A+B) Aplicar la regla del salto (v1.2): si hay 3 meses seguidos ≥ COP 30 M con al menos 2 comerciales/mes y caja para 3 meses, definir cuál socio pasa a tiempo completo y cuándo. Si el estudio está entre 12 y 30 M, la decisión es seguir a tiempo parcial subiendo el ticket, no saltar. Si no, definir qué cambia en los próximos 3 meses (precio, formato de pitch, canal) y repetir el ciclo.
 59. (A+B, 2 h) Agendar la sesión de estrategia de Rango Político para enero de 2027 con los insumos de las tareas 15, 32, 42, 46 y 52.
 60. (A, 2 h) Actualizar este plan a versión 2.0 con lo aprendido.
 

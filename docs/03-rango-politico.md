@@ -3,6 +3,8 @@
 **Versión:** 1.0 · Septiembre 2026 · Documento de trabajo para los dos socios
 **Se lee con:** `01-estrategia-marketing.md` y `02-plan-de-accion.md`
 
+> **Nota v1.2:** los precios de los paquetes políticos (sección 3.1) son estimaciones sin fuente pública; el mercado de campañas no publica tarifas. Se validan con las 3 llamadas de la tarea 104 antes de la primera cotización.
+
 ---
 
 ## 0. Por qué una unidad aparte y no "otro servicio"
