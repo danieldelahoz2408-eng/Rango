@@ -2,6 +2,7 @@
 
 **Versión:** 1.0 · Septiembre 2026 · Documento de trabajo para los dos socios
 **Complementa a:** `01-estrategia-marketing.md` (estrategia general, proyección económica, captación y comunicación)
+**Ajuste v1.1:** `04-captacion-rentabilidad-lanzamiento.md` detalla los medios de captación, la rentabilidad y las tareas T1–T12 de lanzamiento; **la pauta arranca en la semana 9 junto con el orgánico** (no en la 13) para llegar al primer cliente frío en la semana 12–14.
 
 ---
 
@@ -191,7 +192,7 @@ Cada bloque termina con una **revisión de socios de 2 h** (sábado) con el tabl
 - Responder todos los comentarios las primeras 12 semanas. El algoritmo premia conversación y es donde aparecen los primeros leads.
 - Un llamado a acción fijo: "diagnóstico creativo de 30 minutos" (link en bio).
 
-**Pauta (desde semana 13, COP 600 k–1 M/mes):**
+**Pauta (desde semana 9, COP 1–1,5 M/mes; detalle en el documento 04, T6 y T7):**
 - 60 %: amplificar los 2 contenidos orgánicos con mejor tasa de guardados/compartidos de la quincena, a públicos de intereses (marketing, música, emprendimiento, Bogotá 25–45).
 - 30 %: retargeting a quien vio ≥ 50 % de un video o visitó el sitio, con un caso y el CTA de diagnóstico.
 - 10 %: prueba en LinkedIn Ads o Google Ads a 4 términos de intención alta ("productora audiovisual Bogotá", "video clip musical Bogotá", "agencia de branding Bogotá", "diseño web empresas Bogotá").
@@ -320,7 +321,7 @@ Convención: **A** = Socio A (tú), **B** = Socio B, **F** = freelance. Horas es
 
 **Semana 9 — Al aire**
 
-33. (B, 1 h) Día 1: publicar reel del estudio en las 4 redes y posts personales de LinkedIn.
+33. (B, 1 h) Día 1: publicar reel del estudio en las 4 redes y posts personales de LinkedIn. El mismo día se encienden Meta Ads y Google Ads (documento 04, T6 y T7).
 34. (A+B, 30 min/día) Responder todos los comentarios y mensajes en < 12 h.
 35. (A+B, 1 h c/u) Primeros 2 pitches de una idea (uno cada socio) a cuentas de la lista.
 36. (B, 1 h) Escribir a 10 contactos cercanos (excolegas, amigos con negocios, artistas) con el reel y el CTA de diagnóstico: los primeros clientes suelen salir de aquí.
@@ -337,7 +338,7 @@ Convención: **A** = Socio A (tú), **B** = Socio B, **F** = freelance. Horas es
 **Semanas 13–16 — Primeros clientes y pauta**
 
 43. (A+B) Ejecutar los primeros 2–3 proyectos pagos con freelancers del roster: 50 % anticipo, brief estándar, 2 rondas de cambios, Rango Report al cierre.
-44. (B, 2 h) Activar pauta: COP 600 k–1 M/mes según el mix de la sección 6.2. Revisar cada 2 semanas costo por diagnóstico.
+44. (B, 2 h) Optimizar la pauta activa desde la semana 9 (documento 04, T6 y T7): apagar creativos perdedores, subir presupuesto al ganador, revisar cada lunes costo por conversación y por diagnóstico.
 45. (A, 2 h) Publicar "Sesión Rango" #1 con la ficha de caso y estrategia de difusión conjunta con el artista.
 46. (B, 3 h) Lista de 20 precandidatos compatibles con el filtro de valores (solo mapeo, sin contacto).
 47. (A+B, sábado semana 16, 2 h) Revisión de fase con el tablero: tasa de respuesta de pitches, costo por diagnóstico, ticket promedio, horas reales. Ajustar formato de pitch si la respuesta es < 20 %.

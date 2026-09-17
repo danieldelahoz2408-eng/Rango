@@ -37,6 +37,7 @@ Un socio trabaja en una UTL del Senado. Antes de cualquier contacto comercial po
 
 ### 1.3 Filtro de valores (se escribe en la semana 12 del plan de acción; propuesta)
 Rango Político **no** trabaja con candidatos:
+
 - con investigaciones o condenas por corrupción, o vínculos documentados con grupos armados o economías ilegales;
 - cuyo discurso público se base en odio a grupos por origen, género, orientación, religión o etnia;
 - que pidan operaciones de desinformación o ataques con información falsa.

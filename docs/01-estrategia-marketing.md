@@ -68,6 +68,8 @@ Supuestos del caso base: 2→5 proyectos/mes; ticket promedio 5 M → 12 M → 2
 
 **Lectura clave:** la diferencia entre conservador y base no es cuántos proyectos se venden, sino a qué precio y cuándo se contrata. El escenario conservador es una agencia de volumen: mucha operación, cero utilidad.
 
+> **Ajuste v1.1:** la tabla de rentabilidad por proyecto, las tarifas freelance y los sueldos de fundadores están en `04-captacion-rentabilidad-lanzamiento.md`, Parte 2.
+
 ### Reglas financieras
 1. **Contratación:** un cargo nuevo solo cuando los ingresos promedio de los últimos 3 meses cubren ≥ 3,5× su costo mensual cargado. Antes, freelancers.
 2. **Anticipos:** 50/50 en proyectos < 20 M; 30/40/30 en mayores. Un cliente grande que paga a 60–90 días se cotiza +8–10 % y se financia con factoring, no con la caja del estudio.
@@ -81,6 +83,8 @@ Ingresos por línea · ticket promedio · % ingresos recurrentes · margen bruto
 ---
 
 ## 3. Estrategia de captación de leads
+
+> **Ajuste v1.1:** la mecánica, costos y metas de cada medio de captación están detallados en `04-captacion-rentabilidad-lanzamiento.md`, Parte 1. Ese documento manda sobre esta sección.
 
 ### Principio
 Para un estudio creativo, **el contenido es el embudo**: nadie contrata una productora por un formulario; la contratan porque vio una pieza.
@@ -98,6 +102,7 @@ Para un estudio creativo, **el contenido es el embudo**: nadie contrata una prod
 
 ### Motor 1 — Proyectos imán
 Piezas autofinanciadas diseñadas para circular (en tiempo parcial: 2 en los primeros 6 meses; el resto en fase 2):
+
 1. **"Rebrand no solicitado"**: rediseño de identidad de un ícono bogotano, publicado como caso.
 2. **"Anuncios que nadie pidió"**: spots spec de 30–45 s para marcas grandes, enviados a la marca y a su agencia.
 3. **"Sesiones Rango"**: mini clips con artistas emergentes, coproducidos (ellos ponen talento y difusión).
